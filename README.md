@@ -6,11 +6,11 @@ Section1 | Section2 | Section3 | ...
 
 | Item                     | Price    |
 |:-------------------------|----------|
+| bread                    | 10       |
 | fried egg                | 20       |
+| ham                      | 10       |
 | omelette                 | 20       |
 | sausage                  | 10       |
-| ham                      | 10       |
-| bread                    | 10       |
 
 ## About Us
 
