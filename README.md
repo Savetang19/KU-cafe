@@ -1,9 +1,8 @@
 # KU Cafe
 
-[Breakfast](#breakfast) | [Lunch](#lunch) | [Beverages](#beverages)
+[Breakfast](#breakfast) | [Lunch](#lunch) | [Dinner](#dinner) | [Beverages](#beverages)
 
 ## Breakfast
-
 | Item                     | Price    |
 |:-------------------------|----------|
 | bread                    | 10       |
@@ -21,8 +20,15 @@
 | Spicy tom yum noodle with pork| 40       |
 | Stewed pork Noodle       | 40    |
 
-## Beverages
+## Dinner 
+| Item                 | price |
+|:-------------------------|----------|
+| Porridge with fish             | 40       |
+| Rice crispy pork               | 45    |
+| Sticky rice            | 10       |
+| Spicy papaya salad            |35
 
+## Beverages
 | Item      | Price |
 |:----------|-------|
 | Coffee    | 20    |
@@ -33,10 +39,11 @@
 
 ## About Us
 
-
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Panitta | breakfast-menu| @panitnt |
+| Panitta Tanyavichitkul | Breakfast menu| @panitnt |
 | Napasakorn Boonkerd | Lunch menu | @Savetang19 |
-| Ratthicha Parinthip | [Beverages menu](#beverages) | @premepreme |
+| Khemissara Pratummanee| Dinner menu | @khemissara |
+| Ratthicha Parinthip | Beverages menu | @premepreme |
+
 
