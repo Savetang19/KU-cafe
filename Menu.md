@@ -29,6 +29,15 @@
 
 ## Beverages
 
+| Item      | Price |
+|:----------|-------|
+| Water     | 7     |
+| Coffee    | 20    |
+| Tea       | 20    |
+| Juice     | 25    |
+| Milkshake | 30    |
+
+
 
 
 ---

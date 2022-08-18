@@ -1,7 +1,6 @@
 # KU Cafe
 
-[Lunch](#lunch)
-
+[Breakfast](#breakfast) | [Lunch](#lunch) | [Beverages](#beverages)
 
 ## Breakfast
 
@@ -22,6 +21,16 @@
 | Spicy tom yum noodle with pork| 40       |
 | Stewed pork Noodle       | 40    |
 
+## Beverages
+
+| Item      | Price |
+|:----------|-------|
+| Coffee    | 20    |
+| Juice     | 25    |
+| Milkshake | 30    |
+| Tea       | 20    |
+| Water     | 7     |
+
 ## About Us
 
 
@@ -29,4 +38,5 @@
 |:----------|-----------|-----------------|
 | Panitta | breakfast-menu| @panitnt |
 | Napasakorn Boonkerd | Lunch menu | @Savetang19 |
+| Ratthicha Parinthip | [Beverages menu](#beverages) | @premepreme |
 
