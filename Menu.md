@@ -3,9 +3,13 @@
 
 ## Breakfast
 
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
+| Item                     | Price    |
+|:-------------------------|----------|
+| fried egg                | 20       |
+| omelette                 | 20       |
+| sausage                  | 10       |
+| ham                      | 10       |
+| bread                    | 10       |
 
 ## Lunch 
 

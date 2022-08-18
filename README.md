@@ -28,5 +28,5 @@ To find out what `|:---` and `---:|` mean, look at one of the Markdown reference
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Your name | Your menu | @your_github_id |
+| Panitta | [breakfast-menu](Menu.md#breakfast) | @panitnt |
 
