@@ -5,8 +5,8 @@
 ## Dinner 
 | Item                 | price |
 |:-------------------------|----------|
-| Rice crispy pork               | 45    |
 | Porridge with fish             | 40       |
+| Rice crispy pork               | 45    |
 | Sticky rice            | 10       |
 | Spicy papaya salad            |35   
 
