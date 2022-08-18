@@ -26,7 +26,6 @@ To find out what `|:---` and `---:|` mean, look at one of the Markdown reference
 
 **TODO**: Each person add yourself to this table; Points **deducted** if one person adds everyone. Name means name, **no student ids**.
 
-| Name      | Role      | Github          |
-|:----------|-----------|-----------------|
-| Your name | Your menu | @your_github_id |
-
+| Name       | Role                                | Github      |
+|:-----------|-------------------------------------|-------------|
+| Ratthicha  | [Beverages menu](Menu.md#beverages) | @premepreme |
