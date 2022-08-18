@@ -1,6 +1,6 @@
 # KU Cafe
 
-[Beverage](#beverages)
+[Beveragea Menu](#beverages)
 
 ## Beverages
 
@@ -16,6 +16,6 @@
 
 ## About Us
 
-| Name       | Role                                | Github      |
-|:-----------|-------------------------------------|-------------|
-| Ratthicha  | [Beverages menu](Menu.md#beverages) | @premepreme |
+| Name                | Role                         | Github      |
+|:--------------------|------------------------------|-------------|
+| Ratthicha Parinthip | [Beverages menu](#beverages) | @premepreme |
