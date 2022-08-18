@@ -1,6 +1,6 @@
 # KU Cafe
 
-[Breakfast](#breakfast) | [Lunch](#lunch) | [Dinner](#dinner) | [Beverages](#beverages)
+[Breakfast](#breakfast) | [Lunch](#lunch) | [Dinner](#dinner) | [Night food](#night-food) | [Beverages](#beverages)
 
 ## Breakfast
 | Item                     | Price    |
@@ -28,6 +28,14 @@
 | Sticky rice            | 10       |
 | Spicy papaya salad            |35
 
+## Night Food
+| Item          | Price |
+|:--------------|-------|
+| Fried Rice    | 50    |
+| Pad Thai      | 50    |
+| Som Tum       | 50    |
+| Tom Yum Koong | 50    |
+
 ## Beverages
 | Item      | Price |
 |:----------|-------|
@@ -44,6 +52,8 @@
 | Panitta Tanyavichitkul | Breakfast menu| @panitnt |
 | Napasakorn Boonkerd | Lunch menu | @Savetang19 |
 | Khemissara Pratummanee| Dinner menu | @khemissara |
+| Jiratchaya Thongsuthum | Night food | @mjrchy |
 | Ratthicha Parinthip | Beverages menu | @premepreme |
+
 
 
