@@ -1,6 +1,7 @@
 # KU Cafe
 
-Section1 | Section2 | Section3 | ...
+[Lunch](#lunch)
+
 
 ## Breakfast
 
@@ -12,11 +13,20 @@ Section1 | Section2 | Section3 | ...
 | omelette                 | 20       |
 | sausage                  | 10       |
 
+## Lunch 
+| Item                 | Price |
+|:-------------------------|----------|
+| Chiang Mai noodles/curried noodles soup | 50|
+| Rice crispy pork | 50 |
+| Roast chicken with sticky rice| 35       |
+| Spicy tom yum noodle with pork| 40       |
+| Stewed pork Noodle       | 40    |
+
 ## About Us
 
-**TODO**: Each person add yourself to this table; Points **deducted** if one person adds everyone. Name means name, **no student ids**.
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Panitta | [breakfast-menu](Menu.md#breakfast) | @panitnt |
+| Panitta | breakfast-menu| @panitnt |
+| Napasakorn Boonkerd | Lunch menu | @Savetang19 |
 
