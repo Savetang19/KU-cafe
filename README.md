@@ -1,6 +1,6 @@
 # KU Cafe
 
-[Beveragea Menu](#beverages)
+[Beverage Menu](#beverages)
 
 ## Beverages
 
